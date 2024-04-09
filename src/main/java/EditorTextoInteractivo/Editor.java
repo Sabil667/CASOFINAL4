@@ -1,8 +1,8 @@
 package EditorTextoInteractivo;
 
-import ComparadorContandorContenido.HerramientasArchivos;
-import ComparadorContandorContenido.ContadorPalabras;
-import ComparadorContandorContenido.EstadisticasUso;
+import ComparadorContadorContenido.HerramientasArchivos;
+import ComparadorContadorContenido.ContadorPalabras;
+import ComparadorContadorContenido.EstadisticasUso;
 import BuscadorPalabras.BuscadorPalabras;
 import IGA.RastreadorPosicionRaton;
 import IGA.BarraDesplazamientoInteractiva;

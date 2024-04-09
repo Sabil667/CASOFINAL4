@@ -1,9 +1,9 @@
 package WELCOME;
 
 import BuscadorPalabras.BuscadorPalabras;
-import ComparadorContandorContenido.ContadorPalabras;
-import ComparadorContandorContenido.EstadisticasUso;
-import ComparadorContandorContenido.HerramientasArchivos;
+import ComparadorContadorContenido.ContadorPalabras;
+import ComparadorContadorContenido.EstadisticasUso;
+import ComparadorContadorContenido.HerramientasArchivos;
 import EditorTextoInteractivo.GestorArchivos;
 import EditorTextoInteractivo.MenuPrincipal;
 import GestionContactos.GestorContactos;
